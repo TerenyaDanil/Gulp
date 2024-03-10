@@ -1,0 +1,14 @@
+@import './blocks/*.scss';
+
+
+* {
+	box-sizing: border-box;
+	
+}
+
+.box {
+	width: 20rem;
+	height: 20rem;
+	background-image: url('./../img/2.png');
+	background-size: contain;
+}
