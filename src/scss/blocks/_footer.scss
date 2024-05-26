@@ -1,10 +1,10 @@
 .footer {
-	height: 100px;
-	background-color: blue;
+  height: 100px;
+  background-color: blue;
 }
 
 @media (max-width: 1200px) {
-	.footer {
-		background-color: red;
-	}
+  .footer {
+    background-color: red;
+  }
 }
